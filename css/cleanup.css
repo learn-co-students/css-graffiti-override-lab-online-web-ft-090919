@@ -1,1 +1,30 @@
 /* write your override styles here */
+
+#wall .tag-1 {
+    display: none;
+}
+
+#tag-3 {
+    left: 30px;
+}
+
+.slick .wicked #tag-3 {
+    display: none;
+}
+
+#wall #tag-4 {
+    top: 200px;
+    left: 200px;
+    width: 600px;
+}
+
+div#wall .parent #tag-5.slick {
+    z-index: 32;
+    display: flex;
+}
+
+div#tag-6 {
+    left: 42px;
+    height: 80vh;
+}
+
